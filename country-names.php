@@ -13,7 +13,7 @@
  * 
  * @var array
  */
-$countries = [
+$countryNames = [
     'Andorra',
     'United Arab Emirates',
     'Afghanistan',
